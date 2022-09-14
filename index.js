@@ -1,0 +1,1 @@
+console.info("halo, namaku adalah Muhamad Yusuf")

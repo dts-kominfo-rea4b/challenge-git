@@ -1,1 +1,1 @@
-halo, namaku adalah iqbal syarifudin lutfie
+console.log('Halo, namaku adalah Iqbal Syarifudin Lutfie');

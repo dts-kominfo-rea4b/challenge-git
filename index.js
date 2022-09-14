@@ -1,1 +1,1 @@
-console.info("halo, namaku adalah Muhamad Yusuf")
+console.info("halo, namaku adalah Muhamad Yusuf");

@@ -1,0 +1,1 @@
+console.log("Halo, Nama saya Ghalda Putri Balqis!")

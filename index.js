@@ -1,0 +1,1 @@
+//hello namaku adalah ngurah pranajaya

@@ -1,1 +1,0 @@
-`halo namaku luthfi nur adli`

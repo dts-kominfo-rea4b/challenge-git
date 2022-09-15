@@ -1,1 +1,1 @@
-console.log("Halo, Namaku adalah Fitrah Amaliagit brach")
+console.log("Halo, Namaku adalah Fitrah Amalia")

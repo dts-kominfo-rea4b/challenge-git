@@ -1,0 +1,1 @@
+console.log("helo, namaku adalah muhammad bunyamin");

@@ -1,0 +1,1 @@
+alert("Halo, namaku adalah Hannan");

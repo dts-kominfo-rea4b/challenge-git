@@ -1,0 +1,1 @@
+return(`halo, namaku adalah MUHAMMAD HAIDAR SHAHAB`);

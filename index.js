@@ -1,0 +1,1 @@
+let comennt = "halo, namaku adalah IMAN KAMALUDIN";

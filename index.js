@@ -1,1 +1,1 @@
-'Hallo Nama Ku MISKAL'
+Hallo Nama Ku MISKAL

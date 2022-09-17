@@ -1,3 +1,3 @@
 <script language="javascript" type="text/javascript">
-  Disini adalah kode JavaScript
+  halo, nama saya adalah Gustama Ma'ruf Imelda
 </script>;

@@ -1,0 +1,1 @@
+console.log('Hello, Namaku adalah Mohamad Fichar Rozy'); 

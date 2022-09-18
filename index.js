@@ -1,1 +1,1 @@
-halo, namaku adalah Liztrianto Pujo Hardhiko, nama panggilan Hardhi
+halo, namaku adalah Liztrianto Pujo Hardhiko, nama panggilan Hardhi kelas REA4B

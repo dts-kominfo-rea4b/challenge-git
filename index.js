@@ -1,0 +1,1 @@
+document.write("Halo, Namaku adalah Mahfud Ade Purwanto");

@@ -1,0 +1,1 @@
+console.log('hallo, namaku adalah muhamad nawawi');

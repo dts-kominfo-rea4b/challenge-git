@@ -1,1 +1,1 @@
-console.log("Halo, namaku adalah Irawan Bambang Sugeng");
+console.log("Halo, namaku adalah Irawan BS");

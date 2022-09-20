@@ -1,0 +1,1 @@
+let text = "Halo namaku adalah Haviz Prasetya"
